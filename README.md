@@ -30,7 +30,7 @@ A modern Todo List application built with React and Material-UI components, feat
 
 1. Clone the repository
 ```bash
-git clone https://github.com/Sachin-Sati/Todo-List
+git clone https://github.com/Sachin-Sati/Todo-List.git
 ```
 
 2. Install dependencies
